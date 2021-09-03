@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 78ffdf2fadcdbac41b0f12a7fe1d5466
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserBeam: {fileID: 764049739869652169, guid: a276d6fd80563da44b5b6a753b15c7bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
